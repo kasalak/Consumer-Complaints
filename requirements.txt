@@ -3,3 +3,4 @@ numpy
 statistics
 math
 panda
+matplotlib
