@@ -1,6 +1,5 @@
 ipython[all]
 numpy
 statistics
-math
 panda
 matplotlib
